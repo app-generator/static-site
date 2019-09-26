@@ -21,5 +21,7 @@ App Resources: [demo](https://eleventy-html5up-fractal.appseed.us/), [sources](h
 
 ![Eleventy Html5UP Fractal - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-fractal-intro.gif?raw=true)
 
+<br />
+
 ---
 Static Sites - provided by **AppSeed**
