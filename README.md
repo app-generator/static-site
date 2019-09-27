@@ -12,7 +12,7 @@ A static website contains Web pages with fixed content. Each page is coded in HT
 
 ## [Eleventy TXT](https://github.com/app-generator/eleventy-html5up-txt)
 
-Static Site prototyped on top of Eleventy SSG with TXT Design. Features: 
+Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with TXT Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up TXT
@@ -25,7 +25,7 @@ App Resources: [demo](https://eleventy-html5up-txt.appseed.us/), [sources](https
 
 ## [Eleventy Miniport](https://github.com/app-generator/eleventy-html5up-miniport)
 
-Static Site prototyped on top of Eleventy SSG with Miniport Design. Features: 
+Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Miniport Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up TXT
@@ -38,7 +38,7 @@ App Resources: [demo](https://eleventy-html5up-miniport.appseed.us/), [sources](
 
 ## [Eleventy Dopetrope](https://github.com/app-generator/eleventy-html5up-dopetrope)
 
-Static Site prototyped on top of Eleventy SSG with Dopetrope Design. Features: 
+Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Dopetrope Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up TXT
@@ -51,7 +51,7 @@ App Resources: [demo](https://eleventy-html5up-dopetrope.appseed.us/), [sources]
 
 ## [Eleventy Astral](https://github.com/app-generator/eleventy-html5up-astral)
 
-Static Site prototyped on top of Eleventy SSG with Astral Design. Features: 
+Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Astral Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up TXT
@@ -64,7 +64,7 @@ App Resources: [demo](https://eleventy-html5up-astral.appseed.us/), [sources](ht
 
 ## [Eleventy Fractal](https://github.com/app-generator/eleventy-html5up-fractal)
 
-Static Site prototyped on top of Eleventy SSG with Fractal Design. Features: 
+Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Fractal Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up Fractal
