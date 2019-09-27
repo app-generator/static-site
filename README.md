@@ -23,16 +23,16 @@ App Resources: [demo](https://eleventy-html5up-txt.appseed.us/), [sources](https
 
 <br />
 
-## [Eleventy Multiport](https://github.com/app-generator/eleventy-html5up-multiport)
+## [Eleventy Miniport](https://github.com/app-generator/eleventy-html5up-miniport)
 
-Static Site prototyped on top of Eleventy SSG with Multiport Design. Features: 
+Static Site prototyped on top of Eleventy SSG with Miniport Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up TXT
 
-App Resources: [demo](https://eleventy-html5up-multiport.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-multiport), [CCY 3.0 License](https://html5up.net/license)
+App Resources: [demo](https://eleventy-html5up-miniport.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-miniport), [CCY 3.0 License](https://html5up.net/license)
 
-![Eleventy Html5UP Multiport - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-miniport-intro.gif)
+![Eleventy Html5UP Miniport - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-miniport-intro.gif)
 
 <br />
 
