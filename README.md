@@ -17,7 +17,7 @@ Static Site prototyped on top of Eleventy SSG with TXT Design. Features:
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up TXT
 
-App Resources: [demo](https://eleventy-html5up-txt.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-txt), [CCY 3.0 License](https://html5up.net/license)
+App Resources: [demo](https://eleventy-html5up-txt.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-txt), [product info](https://appseed.us/static-site/eleventy-html5up-txt)
 
 ![Eleventy Html5UP TXT - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-txt-intro.gif)
 
@@ -30,7 +30,7 @@ Static Site prototyped on top of Eleventy SSG with Miniport Design. Features:
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up TXT
 
-App Resources: [demo](https://eleventy-html5up-miniport.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-miniport), [CCY 3.0 License](https://html5up.net/license)
+App Resources: [demo](https://eleventy-html5up-miniport.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-miniport), [product info](https://appseed.us/static-site/eleventy-html5up-miniport)
 
 ![Eleventy Html5UP Miniport - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-miniport-intro.gif)
 
@@ -43,7 +43,7 @@ Static Site prototyped on top of Eleventy SSG with Dopetrope Design. Features:
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up TXT
 
-App Resources: [demo](https://eleventy-html5up-dopetrope.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-dopetrope), [CCY 3.0 License](https://html5up.net/license)
+App Resources: [demo](https://eleventy-html5up-dopetrope.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-dopetrope), [product info](https://appseed.us/static-site/eleventy-html5up-dopetrope)
 
 ![Eleventy Html5UP Dopetrope - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-dopetrope-intro.gif)
 
@@ -56,7 +56,7 @@ Static Site prototyped on top of Eleventy SSG with Astral Design. Features:
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up TXT
 
-App Resources: [demo](https://eleventy-html5up-astral.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-astral), [CCY 3.0 License](https://html5up.net/license)
+App Resources: [demo](https://eleventy-html5up-astral.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-astral), [product info](https://appseed.us/static-site/eleventy-html5up-astral)
 
 ![Eleventy Html5UP Astral - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-astral-intro.gif)
 
@@ -69,7 +69,7 @@ Static Site prototyped on top of Eleventy SSG with Fractal Design. Features:
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: HTML5up Fractal
 
-App Resources: [demo](https://eleventy-html5up-fractal.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-fractal), [CCY 3.0 License](https://html5up.net/license)
+App Resources: [demo](https://eleventy-html5up-fractal.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-fractal), [product info](https://appseed.us/static-site/eleventy-html5up-fractal)
 
 ![Eleventy Html5UP Fractal - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-fractal-intro.gif?raw=true)
 
