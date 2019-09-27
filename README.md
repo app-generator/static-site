@@ -36,6 +36,19 @@ App Resources: [demo](https://eleventy-html5up-multiport.appseed.us/), [sources]
 
 <br />
 
+## [Eleventy Dopetrope](https://github.com/app-generator/eleventy-html5up-dopetrope)
+
+Static Site prototyped on top of Eleventy SSG with Dopetrope Design. Features: 
+- SSG: [Eleventy](https://www.11ty.io/)
+- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
+- Design: HTML5up TXT
+
+App Resources: [demo](https://eleventy-html5up-dopetrope.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-dopetrope), [CCY 3.0 License](https://html5up.net/license)
+
+![Eleventy Html5UP Dopetrope - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-dopetrope-intro.gif)
+
+<br />
+
 ## [Eleventy Astral](https://github.com/app-generator/eleventy-html5up-astral)
 
 Static Site prototyped on top of Eleventy SSG with Astral Design. Features: 
