@@ -1,6 +1,7 @@
-# Static Sites
+# [Static Sites](https://appseed.us/static-site)
 
-Open-source static sites (free & commercial) generated and prototyped by **AppSeed**
+Open-source static sites (free & commercial) generated and prototyped by **AppSeed** in [Eleventy](https://www.11ty.io/)
+, [Panini](https://github.com/foundation/panini) SSG
 
 <br />
 
@@ -76,4 +77,4 @@ App Resources: [demo](https://eleventy-html5up-fractal.appseed.us/), [sources](h
 <br />
 
 ---
-Static Sites - provided by **AppSeed**
+[Static Sites](https://appseed.us/static-site) - provided by **AppSeed**
