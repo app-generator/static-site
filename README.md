@@ -36,6 +36,19 @@ App Resources: [demo](https://eleventy-html5up-multiport.appseed.us/), [sources]
 
 <br />
 
+## [Eleventy Astral](https://github.com/app-generator/eleventy-html5up-astral)
+
+Static Site prototyped on top of Eleventy SSG with Astral Design. Features: 
+- SSG: [Eleventy](https://www.11ty.io/)
+- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
+- Design: HTML5up TXT
+
+App Resources: [demo](https://eleventy-html5up-astral.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-astral), [CCY 3.0 License](https://html5up.net/license)
+
+![Eleventy Html5UP Astral - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-astral-intro.gif)
+
+<br />
+
 ## [Eleventy Fractal](https://github.com/app-generator/eleventy-html5up-fractal)
 
 Static Site prototyped on top of Eleventy SSG with Fractal Design. Features: 
