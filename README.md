@@ -180,5 +180,31 @@ App Resources: [demo](https://eleventy-html5up-fractal.appseed.us/), [sources](h
 
 <br />
 
+## [Eleventy Stellar](https://github.com/app-generator/eleventy-html5up-stellar)
+
+Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Stellar Design. Features: 
+- SSG: [Eleventy](https://www.11ty.io/)
+- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
+- Design: HTML5up Stellar
+
+App Resources: [demo](https://eleventy-html5up-stellar.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-stellar), [product info](https://appseed.us/static-site/eleventy-html5up-stellar)
+
+![Eleventy Html5UP Stellar - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-stellar-intro.gif?raw=true)
+
+<br />
+
+## [Eleventy Photon](https://github.com/app-generator/eleventy-html5up-stellar)
+
+Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Photon Design. Features: 
+- SSG: [Eleventy](https://www.11ty.io/)
+- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
+- Design: HTML5up Photon
+
+App Resources: [demo](https://eleventy-html5up-photon.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-photon), [product info](https://appseed.us/static-site/eleventy-html5up-photon)
+
+![Eleventy Html5UP Photon - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-photon-intro.gif?raw=true)
+
+<br />
+
 ---
 [Static Sites](https://appseed.us/static-site) - provided by **AppSeed**
