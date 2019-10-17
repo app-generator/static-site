@@ -11,6 +11,19 @@ A static website contains Web pages with fixed content. Each page is coded in HT
 
 <br />
 
+## [Eleventy Material Kit Pro](https://appseed.us/static-site/eleventy-material-kit-pro)
+
+**Commercial Product** - Static Site boilerplate on top of [Eleventy SSG](https://www.11ty.io/) with **Material Design Pro** by Creative-Tim. Features: 
+- SSG: [Eleventy](https://www.11ty.io/)
+- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
+- Design: [Material Design Pro](https://www.creative-tim.com/product/material-kit-pro)
+
+App Resources: [product page](https://appseed.us/static-site/eleventy-material-kit-pro), [demo](https://eleventy-html5up-txt.appseed.us)
+
+![Eleventy Material Kit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-intro.gif)
+
+<br />
+
 ## [Eleventy Ethereal](https://github.com/app-generator/eleventy-html5up-ethereal)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Ethereal Design. Features: 
