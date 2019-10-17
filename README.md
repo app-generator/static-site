@@ -18,7 +18,7 @@ A static website contains Web pages with fixed content. Each page is coded in HT
 - Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
 - Design: [Material Design Pro](https://www.creative-tim.com/product/material-kit-pro)
 
-App Resources: [product page](https://appseed.us/static-site/eleventy-material-kit-pro), [demo](https://eleventy-html5up-txt.appseed.us)
+App Resources: [product page](https://appseed.us/static-site/eleventy-material-kit-pro), [demo](https://eleventy-material-kit-pro.appseed.us)
 
 ![Eleventy Material Kit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-intro.gif)
 
