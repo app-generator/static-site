@@ -24,6 +24,19 @@ App Resources: [product page](https://appseed.us/static-site/eleventy-material-k
 
 <br />
 
+## [Eleventy Paper Kit Pro](https://appseed.us/static-site/eleventy-paper-kit-pro)
+
+**Commercial Product** - Static Site boilerplate on top of [Eleventy SSG](https://www.11ty.io/) with **Paper Design Pro** by Creative-Tim. Features: 
+- SSG: [Eleventy](https://www.11ty.io/)
+- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
+- Design: **Paper Design Pro**
+
+App Resources: [product page](https://appseed.us/static-site/eleventy-paper-kit-pro), [demo](https://eleventy-paper-kit-pro.appseed.us)
+
+![Eleventy Paper Kit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-intro.gif)
+
+<br />
+
 ## [Eleventy Ethereal](https://github.com/app-generator/eleventy-html5up-ethereal)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Ethereal Design. Features: 
