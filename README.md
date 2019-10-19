@@ -24,6 +24,19 @@ App Resources: [product page](https://appseed.us/static-site/eleventy-material-k
 
 <br />
 
+## [Eleventy Now UI Kit Pro](https://appseed.us/static-site/eleventy-now-ui-kit-pro)
+
+**Commercial Product** - Static Site boilerplate on top of [Eleventy SSG](https://www.11ty.io/) with **Now UI Design Pro** by Creative-Tim. Features: 
+- SSG: [Eleventy](https://www.11ty.io/)
+- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
+- Design: **Now UI Design Pro**
+
+App Resources: [product page](https://appseed.us/static-site/eleventy-now-ui-kit-pro), [demo](https://eleventy-now-ui-kit-pro.appseed.us)
+
+![Eleventy Now UI Kit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-intro.gif)
+
+<br />
+
 ## [Eleventy Paper Kit Pro](https://appseed.us/static-site/eleventy-paper-kit-pro)
 
 **Commercial Product** - Static Site boilerplate on top of [Eleventy SSG](https://www.11ty.io/) with **Paper Design Pro** by Creative-Tim. Features: 
