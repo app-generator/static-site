@@ -50,7 +50,7 @@ App Resources: [product page](https://appseed.us/static-site/eleventy-paper-kit-
 
 <br />
 
-## [Eleventy Ethereal](https://github.com/app-generator/eleventy-html5up-ethereal)
+## [Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Ethereal Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -63,7 +63,7 @@ App Resources: [demo](https://eleventy-html5up-ethereal.appseed.us/), [sources](
 
 <br />
 
-## [Eleventy Paradigm](https://github.com/app-generator/eleventy-html5up-paradigm)
+## [Eleventy Paradigm](https://appseed.us/static-site/eleventy-html5up-paradigm)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Paradigm Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -76,7 +76,7 @@ App Resources: [demo](https://eleventy-html5up-paradigm.appseed.us/), [sources](
 
 <br />
 
-## [Eleventy Highlights](https://github.com/app-generator/eleventy-html5up-highlights)
+## [Eleventy Highlights](https://appseed.us/static-site/eleventy-html5up-highlights)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Highlights Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -89,7 +89,7 @@ App Resources: [demo](https://eleventy-html5up-highlights.appseed.us/), [sources
 
 <br />
 
-## [Eleventy Landed](https://github.com/app-generator/eleventy-html5up-alpha)
+## [Eleventy Landed](https://appseed.us/static-site/eleventy-html5up-landed)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Landed Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -102,7 +102,7 @@ App Resources: [demo](https://eleventy-html5up-landed.appseed.us/), [sources](ht
 
 <br />
 
-## [Eleventy Alpha](https://github.com/app-generator/eleventy-html5up-alpha)
+## [Eleventy Alpha](https://appseed.us/static-site/eleventy-html5up-alpha)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Alpha Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -115,7 +115,7 @@ App Resources: [demo](https://eleventy-html5up-alpha.appseed.us/), [sources](htt
 
 <br />
 
-## [Eleventy Helios](https://github.com/app-generator/eleventy-html5up-helios)
+## [Eleventy Helios](https://appseed.us/static-site/eleventy-html5up-helios)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Helios Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -128,7 +128,7 @@ App Resources: [demo](https://eleventy-html5up-helios.appseed.us/), [sources](ht
 
 <br />
 
-## [Eleventy Tessellate](https://github.com/app-generator/eleventy-html5up-tessellate)
+## [Eleventy Tessellate](https://appseed.us/static-site/eleventy-html5up-tessellate)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Tessellate Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -141,7 +141,7 @@ App Resources: [demo](https://eleventy-html5up-tessellate.appseed.us/), [sources
 
 <br />
 
-## [Eleventy Aerial](https://github.com/app-generator/eleventy-html5up-aerial)
+## [Eleventy Aerial](https://appseed.us/static-site/eleventy-html5up-aerial)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Aerial Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -154,7 +154,7 @@ App Resources: [demo](https://eleventy-html5up-aerial.appseed.us/), [sources](ht
 
 <br />
 
-## [Eleventy TXT](https://github.com/app-generator/eleventy-html5up-txt)
+## [Eleventy TXT](https://appseed.us/static-site/eleventy-html5up-txt)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with TXT Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -167,7 +167,7 @@ App Resources: [demo](https://eleventy-html5up-txt.appseed.us/), [sources](https
 
 <br />
 
-## [Eleventy Miniport](https://github.com/app-generator/eleventy-html5up-miniport)
+## [Eleventy Miniport](https://appseed.us/static-site/eleventy-html5up-miniport)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Miniport Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -180,7 +180,7 @@ App Resources: [demo](https://eleventy-html5up-miniport.appseed.us/), [sources](
 
 <br />
 
-## [Eleventy Dopetrope](https://github.com/app-generator/eleventy-html5up-dopetrope)
+## [Eleventy Dopetrope](https://appseed.us/static-site/eleventy-html5up-dopetrope)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Dopetrope Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -193,7 +193,7 @@ App Resources: [demo](https://eleventy-html5up-dopetrope.appseed.us/), [sources]
 
 <br />
 
-## [Eleventy Astral](https://github.com/app-generator/eleventy-html5up-astral)
+## [Eleventy Astral](https://appseed.us/static-site/eleventy-html5up-astral)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Astral Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
@@ -206,7 +206,7 @@ App Resources: [demo](https://eleventy-html5up-astral.appseed.us/), [sources](ht
 
 <br />
 
-## [Eleventy Fractal](https://github.com/app-generator/eleventy-html5up-fractal)
+## [Eleventy Fractal](https://appseed.us/static-site/eleventy-html5up-fractal)
 
 Static Site prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Fractal Design. Features: 
 - SSG: [Eleventy](https://www.11ty.io/)
