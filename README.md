@@ -10,6 +10,16 @@ A static website contains Web pages with fixed content. Each page is coded in HT
 
 <br />
 
+## Want more? Go PRO!
+
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
+
+| [Eleventy Material Kit PRO](https://appseed.us/static-site/eleventy-material-kit-pro) | [Eleventy Paper Kit PRO](https://appseed.us/static-site/eleventy-paper-kit-pro) | [Eleventy Now UI Kit PRO](https://appseed.us/static-site/eleventy-now-ui-kit-pro) |
+| --- | --- | --- |
+| [![Eleventy Material Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-material-kit-pro)  | [![Eleventy Paper Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-paper-kit-pro) | [![Eleventy Now UI Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-now-ui-kit-pro)
+
+<br />
+<br />
 
 ## [Static Site Eleventy - Html5Up Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal)
 
@@ -20,7 +30,7 @@ A static website contains Web pages with fixed content. Each page is coded in HT
 
 App Resources: [demo](https://eleventy-html5up-ethereal.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-ethereal)
 
-![Eleventy Html5UP Ethereal - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-ethereal-intro.gif)
+![Eleventy Html5UP Ethereal - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-ethereal-screen.png)
 
 <br />
 
@@ -33,7 +43,7 @@ App Resources: [demo](https://eleventy-html5up-ethereal.appseed.us/), [product p
 
 App Resources: [demo](https://eleventy-html5up-paradigm.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-paradigm)
 
-![Eleventy Html5UP Paradigm - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-paradigm-intro.gif)
+![Eleventy Html5UP Paradigm - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-paradigm-screen.png)
 
 <br />
 
@@ -46,7 +56,7 @@ App Resources: [demo](https://eleventy-html5up-paradigm.appseed.us/), [product p
 
 App Resources: [demo](https://eleventy-html5up-highlights.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-highlights)
 
-![Eleventy Html5UP Highlights - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-highlights-intro.gif)
+![Eleventy Html5UP Highlights - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-highlights-screen.png)
 
 <br />
 
@@ -59,7 +69,7 @@ App Resources: [demo](https://eleventy-html5up-highlights.appseed.us/), [product
 
 App Resources: [demo](https://eleventy-html5up-landed.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-landed)
 
-![Eleventy Html5UP Landed - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-landed-intro.gif)
+![Eleventy Html5UP Landed - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-landed-screen.png)
 
 <br />
 
@@ -72,7 +82,7 @@ App Resources: [demo](https://eleventy-html5up-landed.appseed.us/), [product pag
 
 App Resources: [demo](https://eleventy-html5up-alpha.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-alpha)
 
-![Eleventy Html5UP Alpha - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-alpha-intro.gif)
+![Eleventy Html5UP Alpha - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-alpha-screen.png)
 
 <br />
 
@@ -85,7 +95,7 @@ App Resources: [demo](https://eleventy-html5up-alpha.appseed.us/), [product page
 
 App Resources: [demo](https://eleventy-html5up-helios.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-helios)
 
-![Eleventy Html5UP Helios - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-helios-intro.gif)
+![Eleventy Html5UP Helios - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-helios-screen.png)
 
 <br />
 
@@ -98,7 +108,7 @@ App Resources: [demo](https://eleventy-html5up-helios.appseed.us/), [product pag
 
 App Resources: [demo](https://eleventy-html5up-tessellate.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-tessellate)
 
-![Eleventy Html5UP Tessellate - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-tessellate-intro.gif)
+![Eleventy Html5UP Tessellate - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-tessellate-screen.png)
 
 <br />
 
@@ -111,7 +121,7 @@ App Resources: [demo](https://eleventy-html5up-tessellate.appseed.us/), [product
 
 App Resources: [demo](https://eleventy-html5up-aerial.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-aerial)
 
-![Eleventy Html5UP Aerial - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-aerial-intro.gif)
+![Eleventy Html5UP Aerial - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-aerial-screen.png)
 
 <br />
 
@@ -124,7 +134,7 @@ App Resources: [demo](https://eleventy-html5up-aerial.appseed.us/), [product pag
 
 App Resources: [demo](https://eleventy-html5up-txt.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-txt)
 
-![Eleventy Html5UP TXT - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-txt-intro.gif)
+![Eleventy Html5UP TXT - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-txt-screen.png)
 
 <br />
 
@@ -137,7 +147,7 @@ App Resources: [demo](https://eleventy-html5up-txt.appseed.us/), [product page](
 
 App Resources: [demo](https://eleventy-html5up-miniport.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-miniport)
 
-![Eleventy Html5UP Miniport - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-miniport-intro.gif)
+![Eleventy Html5UP Miniport - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-miniport-screen.png)
 
 <br />
 
@@ -150,7 +160,7 @@ App Resources: [demo](https://eleventy-html5up-miniport.appseed.us/), [product p
 
 App Resources: [demo](https://eleventy-html5up-dopetrope.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-dopetrope)
 
-![Eleventy Html5UP Dopetrope - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-dopetrope-intro.gif)
+![Eleventy Html5UP Dopetrope - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-dopetrope-screen.png)
 
 <br />
 
@@ -163,7 +173,7 @@ App Resources: [demo](https://eleventy-html5up-dopetrope.appseed.us/), [product 
 
 App Resources: [demo](https://eleventy-html5up-astral.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-astral)
 
-![Eleventy Html5UP Astral - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-astral-intro.gif)
+![Eleventy Html5UP Astral - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-astral-screen.png)
 
 <br />
 
@@ -176,7 +186,7 @@ App Resources: [demo](https://eleventy-html5up-astral.appseed.us/), [product pag
 
 App Resources: [demo](https://eleventy-html5up-fractal.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-fractal)
 
-![Eleventy Html5UP Fractal - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-fractal-intro.gif?raw=true)
+![Eleventy Html5UP Fractal - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-fractal-screen.png)
 
 <br />
 
@@ -189,7 +199,7 @@ App Resources: [demo](https://eleventy-html5up-fractal.appseed.us/), [product pa
 
 App Resources: [demo](https://eleventy-html5up-stellar.appseed.us/), [product info](https://github.com/app-generator/eleventy-html5up-stellar)
 
-![Eleventy Html5UP Stellar - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-stellar-intro.gif?raw=true)
+![Eleventy Html5UP Stellar - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-stellar-screen.png)
 
 <br />
 
@@ -202,7 +212,7 @@ App Resources: [demo](https://eleventy-html5up-stellar.appseed.us/), [product in
 
 App Resources: [demo](https://eleventy-html5up-photon.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-photon)
 
-![Eleventy Html5UP Photon - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-photon-intro.gif?raw=true)
+![Eleventy Html5UP Photon - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-photon-screen.png)
 
 <br />
 
@@ -215,7 +225,7 @@ App Resources: [demo](https://eleventy-html5up-photon.appseed.us/), [sources](ht
 
 App Resources: [product page](https://appseed.us/static-site/eleventy-material-kit-pro), [demo](https://eleventy-material-kit-pro.appseed.us)
 
-![Eleventy Material Kit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-intro.gif)
+![Eleventy Material Kit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-screen.png)
 
 <br />
 
@@ -228,7 +238,7 @@ App Resources: [product page](https://appseed.us/static-site/eleventy-material-k
 
 App Resources: [product page](https://appseed.us/static-site/eleventy-now-ui-kit-pro), [demo](https://eleventy-now-ui-kit-pro.appseed.us)
 
-![Eleventy Now UI Kit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-intro.gif)
+![Eleventy Now UI Kit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-screen.png)
 
 <br />
 
@@ -241,7 +251,7 @@ App Resources: [product page](https://appseed.us/static-site/eleventy-now-ui-kit
 
 App Resources: [product page](https://appseed.us/static-site/eleventy-paper-kit-pro), [demo](https://eleventy-paper-kit-pro.appseed.us)
 
-![Eleventy Paper Kit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-intro.gif)
+![Eleventy Paper Kit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-screen.png)
 
 <br />
 
