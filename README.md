@@ -1,6 +1,10 @@
 # [Static Sites](https://appseed.us/static-site)
 
-Open-source **[Static Sites](https://appseed.us/static-site)** (free & commercial) generated and prototyped by **AppSeed** in [Eleventy](https://www.11ty.io/), [Panini](https://github.com/foundation/panini) SSG and other static site builders
+Open-source **[Static Sites](https://appseed.us/static-site)** (free & commercial) generated and prototyped by **AppSeed** in [Eleventy](https://www.11ty.io/), [Panini](https://github.com/foundation/panini) SSG and other static site builders - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+
+<br />
+
+> Enjoy this project? **Join our efforts** to actively support the open-source ecosystem via a **[PayPal.me donation](https://paypal.me/appseed)**. Thank you!
 
 <br />
 
