@@ -4,11 +4,22 @@ Open-source **[Static Sites](https://appseed.us/static-site)** (free & commercia
 
 <br />
 
-> Enjoy this project? **Join our efforts** to actively support the open-source ecosystem via a **[PayPal.me donation](https://paypal.me/appseed)**. Thank you!
+## Latest Project: [Eleventy Soft UI](https://appseed.us/product/eleventy-soft-ui)
+
+[Eleventy Soft UI](https://appseed.us/product/eleventy-soft-ui) is an Eleventy adaptation of **Soft UI Design System** (a user-friendly and beautiful design system based on Bootstrap 5), including a Blog system that uses Prismic CMS for content management. **Soft UI Design System** is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using SASS files and classes.
 
 <br />
 
-## What is a [Static Website](https://techterms.com/definition/staticwebsite)
+- [Eleventy Soft UI](https://appseed.us/product/eleventy-soft-ui) - product page
+- [Eleventy Soft UI](https://eleventy-soft-ui.appseed-srv1.com/) - LIVE Demo
+
+<br />
+
+![Eleventy Soft UI Design - Open-source SSG starter provided by AppSeed in 11ty on top of Soft UI Design.](https://user-images.githubusercontent.com/51070104/128602712-4b38f18d-2154-4899-a796-aec0f7435329.png)
+
+<br />
+
+## What is a Static Website
 
 A static website contains Web pages with fixed content. Each page is coded in HTML and displays the same information to every visitor. Static sites are the most basic type of website and are the easiest to create. Unlike dynamic websites, they do not require any Web programming or database design. A static site can be built by simply creating a few HTML pages and publishing them to a Web server.
 
